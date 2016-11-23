@@ -1,0 +1,24 @@
+7. september – Viðuðum að okkur hugmyndum og fundum eina. Fundum okkur spítu og flöskur og segulloka til að nota í verkefnið.
+12. september -  Fengum segullokana til að virka, fundum powersupply og smára.
+14. september – Lóðuðum vírana á powersupply sem tengir lokana við 
+19. sept. – Byrjuðum að tengja við borðið og fá segullokan til þess að virka
+21. sept – Tengdum þetta öðruvísi og fengum þetta til þess að virka þannig.
+26. – Bjuggum til leið til að geyma blöndurnar okkar og löguðum vitlausa tengingu í borðinu.
+28.9.2016 – Tókum skjá og fengum hann til þess að virka.
+5.10.2016 – Tengdi takka og fann sample kóða.
+10.10.2016 – Fengum takkann til að virka
+12.10.2016 – Tengdum annan takka lóðuðum vírana á batteríunu við og reyndum að koma count til að virka eins og það á að virka
+17.10.2016 – Lærðum betur á á skjáinn og reyndum fá takkann til að virka eins og það á að virka.
+24.10.2016 – Fengum takkann til þess að virka, þannig að ef maður ýtir einusinni á takkann þá case 1 síðan 2 þá case 2 o.s.f.v. Skiptum líka um skjá því við skemmdum hann.
+26.10.2016 – Skjárinn hætti að virka og reyndi að fá hann í lag
+http://www.instructables.com/id/How-to-connect-a-serial-LCD-to-an-Arduino-UNO/step2/The-Sketch/
+31.10.2016 – Reyndi að fá annan skjá til að virka og finna kóða fyrir hann.
+7.11.2016 – Fékk takkana til að virka eins og þeir eiga að virka og nú eigum við bara eftir að tengja segullokana.
+http://electronics.stackexchange.com/questions/33400/my-mosfet-operated-solenoid-circuit-destroys-my-arduino-inputs
+14.11.2016 – Tengdi segulloka upp á nýtt og fékk þá til þess að virka eins og þeir eiga að gera.
+16.11.2016 – Fékk takkana til að virka
+17.11.2016 – Lóðaði segulloka, gekk ekki vel datt allt í sundur nema einn en eitthvað gerðist svo að segullokarnir hættu að virka, reyndi að fá þá til þess að virka, fékk einn til þess að virka en hann virkar ekki lengur. Lóðaði vírana á batteríinu saman.
+18.11.2016 – Lóðaði restina af segullokunum aftur, fann út að það vantaði jörð á segullokana sem virkuðu ekki, samt var jörð lengra frá á brettinu. Tengdi jörð við alla segullokana.
+21.11.2016 – Fengum loks alla segulloka, nema tvo til að virka, skiptum um battaerí og reyndum að fá restina til að virka.
+22.11.2016 – Fengum alla segulloka til  að virka, fengum takkana til að virka eins og þeir eiga að virka, tókum flösku og fengum vatn til að renna í gegnum hana, gatið var of stórt, þurfum að reyna að hafa jafnstórt gat og rörið eða þétta það.
+
