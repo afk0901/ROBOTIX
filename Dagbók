@@ -21,4 +21,11 @@ http://electronics.stackexchange.com/questions/33400/my-mosfet-operated-solenoid
 18.11.2016 – Lóðaði restina af segullokunum aftur, fann út að það vantaði jörð á segullokana sem virkuðu ekki, samt var jörð lengra frá á brettinu. Tengdi jörð við alla segullokana.
 21.11.2016 – Fengum loks alla segulloka, nema tvo til að virka, skiptum um battaerí og reyndum að fá restina til að virka.
 22.11.2016 – Fengum alla segulloka til  að virka, fengum takkana til að virka eins og þeir eiga að virka, tókum flösku og fengum vatn til að renna í gegnum hana, gatið var of stórt, þurfum að reyna að hafa jafnstórt gat og rörið eða þétta það.
+23.11.2016 – Tók tíman á því hvað það þarf að bíða lengi til að fá út c.a. 250ml vatn það eru c.a. 7.5 mín, tengdi skjá. Gamall kóði í sameiginlegu möppunni því hópfélagi gleymdi að vista kóðann þangað. Tenging: https://www.google.is/search?q=analog+screen+wiring+arduino+lcd&espv=2&biw=1680&bih=895&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjJi4-3pr_QAhVCkSwKHU14D1AQ_AUIBigB#imgrc=MOGnw37uXgS2yM%3A
+Tutorial fyrir skjá sem reynt var að fara eftir:
+http://www.instructables.com/id/How-to-connect-a-serial-LCD-to-an-Arduino-UNO/
+
+24.11.2016 – Reyndi að fá skjá til að virka og fann mótor sem við ætlum hugsanlega að nota til þess að færa glasið og prófaði. Fór síðan heim þegar tíminn var búinn og sagaði spítur til að búa til barinn. Hópfélagi mætti ekki, kóðinn var hjá honum svo ekki var hægt að vinna í honum.
+Tenging fyrir mótora: https://mikeydunwoody.files.wordpress.com/2014/10/motor-large.jpg
+25.11.2016 – Nýtti tímann í að vinna í skýrslunni. Hélt áfram að vinna í boxinu utan um segullokana og flöskunar.
 
